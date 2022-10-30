@@ -1,2 +1,4 @@
 ^HealthForecast\.Rproj$
+^scripts
 ^\.Rproj\.user$
+^LICENSE\.md$
